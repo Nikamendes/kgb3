@@ -1,0 +1,22 @@
+th,
+td {
+    padding: 15px;
+    text-align: center;
+    border-bottom: 1px solid #ddd;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color:blanc;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    text-align: center;
+}
+
+table {
+    margin: 0 auto;
+    width: 100%; /* Ajustez la largeur selon vos besoins */
+}
